@@ -1,0 +1,129 @@
+# Protein Kinase C isoforms
+PRKCA
+PRKCB
+PRKCD
+PRKCE
+PRKCG
+PRKCH
+PRKCI
+PRKCQ
+PRKCZ
+
+# Notes from http://dx.doi.org/10.1016/j.biocel.2006.11.016
+
+# Bradykinin signaling ---
+
+# Kininogen (precursor to bradykinin)
+KNG1
+
+# Bradykinin Receptors
+BDKRB1
+BDKRB2
+
+# Kallikreins (proteases that generate kinins)
+KLKB1
+KLK1
+KLK2
+KLK3
+KLK4
+KLK5
+KLK6
+KLK7
+KLK8
+KLK9
+KLK10
+KLK11
+KLK12
+KLK13
+KLK14
+KLK15
+
+
+# ACE (angiotensin converting enzyme, degrades bradykinin)
+ACE
+
+# Aminopeptidase P (breaks down bradykinin)
+XPNPEP1
+XPNPEP2
+XPNPEP3
+
+# Factors leading to bradykinin receptor expression
+NGF
+TNF
+IL1B
+
+# Phospholipase B (activated by bradykinin)
+PLCB1
+PLCB2
+PLCB3
+PLCB4
+
+# G proteins activated by bradykinin (Gq, Gi)
+GNAQ
+GNAI1
+GNAI2
+GNAI3
+GNAO1
+GNAT1
+GNAT2
+GNAT3
+GNAZ
+
+# Phospholipase A2 (activated by bradykinin via Gq and Gi)
+PLA2G1B
+PLA2G2A
+PLA2G2C
+PLA2G2D
+PLA2G2E
+PLA2G2F
+PLA2G3
+PLA2G4A
+PLA2G4B
+PLA2G4C
+PLA2G4D
+PLA2G4E
+PLA2G4F
+PLA2G5
+PLA2G6
+PLA2G7
+PLA2G10
+PLA2G12A
+PLA2G12B
+PLA2G15
+
+
+# Transient receptor potential channels
+TRPV1
+TRPV2
+TRPV3
+TRPV4
+
+# Cyclooxygenases
+PTGS1
+PTGS2
+
+# Prostaglandin receptor
+PTGER2
+
+# Protein Kinase A
+PRKACA
+PRKACB
+PRKACG
+PRKAR1A
+PRKAR1B
+PRKAR2A
+PRKAR2B
+
+# Adenylate cyclases (PKA signaling)
+ADCY1
+ADCY2
+ADCY3
+ADCY4
+ADCY5
+ADCY6
+ADCY7
+ADCY8
+ADCY9
+ADCY10
+
+
