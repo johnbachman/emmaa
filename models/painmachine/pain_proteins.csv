@@ -49,8 +49,8 @@ XPNPEP3
 
 # Factors leading to bradykinin receptor expression
 NGF
-TNF
-IL1B
+#TNF
+#IL1B
 
 # Phospholipase B (activated by bradykinin)
 PLCB1
